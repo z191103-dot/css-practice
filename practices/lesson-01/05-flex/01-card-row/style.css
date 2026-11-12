@@ -1,3 +1,5 @@
 .cards {
-  /* Write your solution here. */
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
 }
